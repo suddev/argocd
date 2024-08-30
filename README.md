@@ -1,2 +1,2 @@
-# argocd
-set of argocd examples
+# sample_helm
+Sample helm repo
